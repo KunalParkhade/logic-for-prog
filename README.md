@@ -40,7 +40,7 @@ Contributions are always welcome! If you'd like to contribute, please follow the
 5. Create a new Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KunalParkhade/logic-for-prog/blob/main/LICENSE) file for details.
 
 
 ---
